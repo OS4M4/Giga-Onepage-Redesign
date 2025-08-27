@@ -79,14 +79,6 @@ The webpage is fully responsive and optimised for:
 
 1. **Clone or Download**: Get the project files
 2. **Open**: Launch `index.html` in a modern web browser
-3. **Local Server** (Optional): Use a local server for best experience
-   ```bash
-   # Python 3
-   python -m http.server 8000
-   
-   # Node.js
-   npx serve .
-   ```
 
 ## Performance Features
 
@@ -123,8 +115,3 @@ This enhanced webpage demonstrates:
 -  **Imagery**: Visual elements that enhance the content
 -  **Optimisation**: Fast loading and responsive design
 
-## Contact
-
-For questions about this implementation, please contact the development team.
-
----
